@@ -1,2 +1,0 @@
-# SistemasAspirantes
-ProyectoSAT
